@@ -1,2 +1,2 @@
 # Web-Editoru
-Web editörü kaynak dosyaları
+Web editörü javascript  kaynak dosyaları
